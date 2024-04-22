@@ -25,4 +25,6 @@ Feel free to reach out if you share my passion for technology or if you're inter
 
 ## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBLucas11&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBLucas11&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBLucas11&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBLucas11&layout=compact&theme=radical)
